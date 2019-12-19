@@ -1,0 +1,47 @@
+{
+    "name": "Codius",
+    "description": "Codius can talk to anything connected to the internet.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/codius.png",
+    "tags": [
+        "api service provider",
+        "have api",
+        "legal",
+        "politics of apis",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/codius\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Codius",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/codius.png",
+            "humanURL": "http:\/\/codius.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/codius-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/codius"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/codius"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/codius.org\/"
+        }
+    ]
+}
